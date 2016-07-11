@@ -16,7 +16,7 @@ Response:
 
 Display recent search: 
 ```
-https://rtapan-url-shortener.herokuapp.com/29
+https://rtapan-image-search.herokuapp.com/api/latest/imagesearch
 
 ```
 Response:
